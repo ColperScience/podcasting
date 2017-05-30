@@ -14,7 +14,7 @@ Oh and while you're at it, why not [subsrcibe to the podcast here ?](http://blog
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to zannah@mozillafoundation.org.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to ilyass@colperscience.com.
 
 ## Maintainers
 
